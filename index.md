@@ -1,4 +1,6 @@
 # 
+[Link to test header](#this-is-a-test-header)
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ``` c
 int a = 25;
@@ -9,5 +11,3 @@ int a = 25;
 
 ### This is a test header.
 
-
-[Link to test header](#this-is-a-test-header)
